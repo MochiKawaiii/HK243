@@ -44,14 +44,14 @@ def bfs(graph, start, goal):
 | **BFS/DFS liệt kê *mọi* đường đi** | In tất cả đường từ `start` tới `goal` | Không dừng ngay khi gặp đích, tiếp tục duyệt và lưu toàn bộ đường. |
 | **Dijkstra** | Đường đi **nhẹ nhất** trên đồ thị trọng số | Mở rộng nút có chi phí tạm thời nhỏ nhất trước (hàng đợi ưu tiên). |
 
-### 2.4 Đồ thị mẫu
-- **Mẫu 1**: đồ thị nhỏ, không chu trình.
-- **Mẫu 2**: đồ thị có chu trình.
-- **Mẫu 4**: đồ thị lưới, kiểm tra BFS đếm đỉnh.
-- **Mẫu 5**: đồ thị trọng số nhỏ, minh họa hạn chế BFS/DFS.
-- **Mẫu 6**: trọng số và nhiều đường alternatif, so sánh BFS, DFS, Dijkstra.
-- **Mẫu 7**: không trọng số, mật độ cao, BFS liệt kê nhiều đường ngắn nhất.
-- **Đồ thị 10 đỉnh**: tự thiết kế, 19 cạnh, dùng cho thử nghiệm tổng quan.
+### 2.4 Bài tập
+- **Bài tập 1**: đồ thị nhỏ, không chu trình.
+- **Bài tập 2**: đồ thị có chu trình.
+- **Bài tập 4**: đồ thị lưới, kiểm tra BFS đếm đỉnh.
+- **Bài tập 5**: đồ thị trọng số nhỏ, minh họa hạn chế BFS/DFS.
+- **Bài tập 6**: trọng số và nhiều đường alternatif, so sánh BFS, DFS, Dijkstra.
+- **Bài tập 7**: không trọng số, mật độ cao, BFS liệt kê nhiều đường ngắn nhất.
+- **Bài tập Đồ thị 10 đỉnh**: tự thiết kế, 19 cạnh, dùng cho thử nghiệm tổng quan.
 
 ## 3. Cách chạy mã
 1. **Mở Notebook** `BFS-DFS.ipynb` trên Jupyter/Colab.
