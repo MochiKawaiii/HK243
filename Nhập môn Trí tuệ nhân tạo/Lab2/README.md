@@ -4,7 +4,7 @@
 
 
 
-# Cach haot dong cua code
+# Cach hoat dong cua code
 
 
 
