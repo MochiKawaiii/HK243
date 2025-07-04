@@ -22,7 +22,7 @@
 
 ---
 
-## Cách hoạt động của code (phần Bài tập)
+## Cách hoạt động của code 
 
 1. Mở cell **Bài tập** ở cuối notebook.
 2. Thay đổi hàm `objective()` hoặc thêm biến tuỳ nhu cầu.
@@ -45,5 +45,3 @@ pip install numpy matplotlib jupyter
 # Mở notebook
 jupyter lab lab3.ipynb   # hoặc: jupyter notebook lab3.ipynb
 ```
-
-Sau khi notebook mở, nhấn **Run All** hoặc chạy từng cell, hoàn thành phần Bài tập và lưu kết quả.
