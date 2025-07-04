@@ -1,4 +1,4 @@
-# Lab 3 – Genetic Algorithm
+# Lab 3 tuần 4 – Genetic Algorithm
 
 ## Công nghệ sử dụng
 
